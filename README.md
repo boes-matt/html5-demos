@@ -1,7 +1,7 @@
 Learning HTML5 Canvas & Javascript
 ==================================
 
-A potpourri of little canvas demos.  Load test2.html.  Some features require running a local server.  See notes at bottom of fns.js.
+A potpourri of little canvas demos.  Load [test2.html](https://github.com/boes-matt/html5-demos/blob/master/test2.html).  Some features require running a local server.  See notes at bottom of [fns.js](https://github.com/boes-matt/html5-demos/blob/master/fns.js).
 
 See a [preview here](http://htmlpreview.github.com/?https://github.com/boes-matt/html5-demos/blob/master/test2.html).
 
