@@ -10,4 +10,4 @@ Many of the examples and code are derived or copied from:
 - [The Mozilla Developer Network Canvas Tutorial](https://developer.mozilla.org/en-US/docs/HTML/Canvas/Tutorial)
 - [The MDN's "Drawing Graphics with Canvas"](https://developer.mozilla.org/en-US/docs/HTML/Canvas/Drawing_Graphics_with_Canvas)
 
-The images are from the Udacity course.
+The images and music are from the Udacity course.
